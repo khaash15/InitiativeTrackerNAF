@@ -1,0 +1,27 @@
+.MessageBoxContainer {
+  height: 100px;
+  width: 400px;
+  border-radius: 5px;
+  background-color: white;
+  border: 1px solid #a3a6b8;
+  position: absolute;
+  /* top: 20px; */
+  top: 0;
+  left: 500px;
+  padding: 10px;
+}
+
+.FlexBox {
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+  display: flex;
+  position: absolute;
+  z-index: 5;
+  top: 0;
+}
+
+.MessageBoxPicture {
+  height: 50px;
+  width: 50px;
+}
